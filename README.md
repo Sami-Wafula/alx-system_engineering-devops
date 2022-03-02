@@ -1,2 +1,2 @@
-# alx-system_engineering_devops
-Repository for shell related stuff for alx course
+Not empty readme file for alx pre course
+
