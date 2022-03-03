@@ -1,2 +1,1 @@
-Not empty readme file for alx pre course
-
+readme for shell permissions
